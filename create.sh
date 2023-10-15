@@ -1,7 +1,7 @@
 #!/bin/bash
 DATE=`date +%m-%d-%Y`
 DOWNLOAD=download
-FOLDERNAME=Agon_uSD_content
+FOLDERNAME=SD_card
 
 cleanup () {
     rm -rf $FOLDERNAME
