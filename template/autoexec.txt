@@ -1,4 +1,0 @@
-SET KEYBOARD 1
-LOAD bbcbasic.bin
-CD tests
-RUN
